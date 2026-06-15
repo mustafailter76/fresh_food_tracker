@@ -1,0 +1,84 @@
+{
+  "appTitle": "Taze Yiyecek Takipçisi",
+  "home": "Ana Sayfa",
+  "fridge": "Buzdolabı",
+  "trash": "Çöp Kutusu",
+  "stomach": "Mide",
+  "settings": "Ayarlar",
+
+  "fridgeTitle": "Buzdolabım",
+  "trashTitle": "Çöp Kutusu",
+  "stomachTitle": "Yeme Geçmişi",
+  "settingsTitle": "Ayarlar",
+
+  "addFood": "Yiyecek Ekle",
+  "selectFood": "Yiyecek Seç",
+  "expiryDate": "Son Kullanma Tarihi",
+  "selectDate": "Tarih Seç",
+  "place": "Koy",
+  "cancel": "İptal",
+  "confirm": "Onayla",
+  "eat": "Ye",
+  "trash_action": "Çöpe At",
+
+  "fresh": "Taze",
+  "expiringSoon": "Yakında Bitiyor",
+  "expired": "Süresi Geçti",
+
+  "expiredWarning": "Bu yiyeceğin son kullanma tarihi geçmiş! Yiyemezsiniz.",
+  "eatSuccess": "Afiyet olsun! Yiyecek mide geçmişine eklendi.",
+  "trashSuccess": "Yiyecek çöpe atıldı.",
+
+  "trashHistory": "Çöp Geçmişi",
+  "eatenHistory": "Yeme Geçmişi",
+  "trashedOn": "Çöpe atılma tarihi",
+  "eatenOn": "Yenilme tarihi",
+  "addedOn": "Eklenme tarihi",
+
+  "totalTrashed": "Toplam Çöpe Atılan",
+  "lastTrashed": "Son Çöpe Atılan",
+  "totalEaten": "Toplam Yenilen",
+  "lastEaten": "Son Yenilen",
+
+  "noneYet": "Henüz yok",
+  "emptyTrash": "Çöp kutusunda henüz öğe yok.",
+  "emptyStomach": "Henüz yiyecek yenilmedi.",
+  "emptyFridge": "Buzdolabı boş. Yiyecek ekleyin!",
+
+  "themeMode": "Koyu Tema",
+  "language": "Dil",
+  "resetDatabase": "Veritabanını Sıfırla",
+  "resetDatabaseConfirm": "Emin misiniz? Buzdolabı, mide ve çöp geçmişi silinecek. Varsayılan yiyecekler korunacak.",
+  "yes": "Evet, Sıfırla",
+  "no": "Hayır",
+  "databaseReset": "Veritabanı başarıyla sıfırlandı.",
+
+  "expiresIn": "{days} gün sonra bitiyor",
+  "@expiresIn": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+
+  "expiredDaysAgo": "{days} gün önce bitti",
+  "@expiredDaysAgo": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+
+  "expiresToday": "Bugün bitiyor!",
+
+  "apple": "Elma",
+  "banana": "Muz",
+  "milk": "Süt",
+  "cheese": "Peynir",
+  "egg": "Yumurta",
+  "honey": "Bal",
+  "watermelon": "Karpuz",
+  "bread": "Ekmek"
+}

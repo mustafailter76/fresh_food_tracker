@@ -1,0 +1,84 @@
+{
+  "appTitle": "Fresh Food Tracker",
+  "home": "Home",
+  "fridge": "Fridge",
+  "trash": "Trash",
+  "stomach": "Stomach",
+  "settings": "Settings",
+
+  "fridgeTitle": "My Fridge",
+  "trashTitle": "Trash",
+  "stomachTitle": "Eating History",
+  "settingsTitle": "Settings",
+
+  "addFood": "Add Food",
+  "selectFood": "Select Food",
+  "expiryDate": "Expiry Date",
+  "selectDate": "Select Date",
+  "place": "Place",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "eat": "Eat",
+  "trash_action": "Throw Away",
+
+  "fresh": "Fresh",
+  "expiringSoon": "Expiring Soon",
+  "expired": "Expired",
+
+  "expiredWarning": "This food has expired! You cannot eat it.",
+  "eatSuccess": "Enjoy your meal! Food added to eating history.",
+  "trashSuccess": "Food moved to trash.",
+
+  "trashHistory": "Trash History",
+  "eatenHistory": "Eating History",
+  "trashedOn": "Trashed on",
+  "eatenOn": "Eaten on",
+  "addedOn": "Added on",
+
+  "totalTrashed": "Total Trashed",
+  "lastTrashed": "Last Trashed",
+  "totalEaten": "Total Eaten",
+  "lastEaten": "Last Eaten",
+
+  "noneYet": "None yet",
+  "emptyTrash": "There are no items in the trash yet.",
+  "emptyStomach": "No food has been eaten yet.",
+  "emptyFridge": "The fridge is empty. Add some food!",
+
+  "themeMode": "Dark Theme",
+  "language": "Language",
+  "resetDatabase": "Reset Database",
+  "resetDatabaseConfirm": "Are you sure? Fridge, stomach, and trash history will be deleted. Default foods will be kept.",
+  "yes": "Yes, Reset",
+  "no": "No",
+  "databaseReset": "Database reset successfully.",
+
+  "expiresIn": "Expires in {days} days",
+  "@expiresIn": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+
+  "expiredDaysAgo": "Expired {days} days ago",
+  "@expiredDaysAgo": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+
+  "expiresToday": "Expires today!",
+
+  "apple": "Apple",
+  "banana": "Banana",
+  "milk": "Milk",
+  "cheese": "Cheese",
+  "egg": "Egg",
+  "honey": "Honey",
+  "watermelon": "Watermelon",
+  "bread": "Bread"
+}
